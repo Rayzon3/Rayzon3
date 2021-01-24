@@ -1,7 +1,6 @@
 ### Hey, i'm Rahul ✌🏻
 
 ## I'm a computer science student.
-- Currently working on a chess engine and chess playing AI
 - Trying to learn everything 🤣
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
