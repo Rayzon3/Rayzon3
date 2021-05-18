@@ -4,6 +4,10 @@
 - Trying to learn everything 🤣
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
+## Currently Working on: 
+- Forum based website using react
+- Also following the book Crafting Interpreters 
+
 <!--
 **Rayzon3/Rayzon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
