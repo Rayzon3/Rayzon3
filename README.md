@@ -6,7 +6,7 @@
 
 ## Currently Working on: 
 - Forum based website using react
-- Also following the book Crafting Interpreters 
+- Also following the book [Crafting Interpreters](https://craftinginterpreters.com/) 
 
 <!--
 **Rayzon3/Rayzon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
