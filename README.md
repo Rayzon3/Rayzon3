@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
 ## Currently Working on: 
-- Forum based website using react
+- Forum like website using react
 - Also following the book [Crafting Interpreters](https://craftinginterpreters.com/) 
 
 <!--
