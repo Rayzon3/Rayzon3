@@ -10,8 +10,7 @@
 - Forum like website using react
 - Also following the book [Crafting Interpreters](https://craftinginterpreters.com/) 
 
-![snake gif]
-(https://github.com/Rayzon3/Rayzon3/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Rayzon3/Rayzon3/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **Rayzon3/Rayzon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
