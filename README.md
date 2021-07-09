@@ -10,7 +10,7 @@
 - Forum like website using react
 - Also following the book [Crafting Interpreters](https://craftinginterpreters.com/) 
 
-# My contributions are being eaten by snake! 
+### My contributions are being eaten by snake! 
 
 ![snake gif](https://github.com/Rayzon3/Rayzon3/blob/output/github-contribution-grid-snake.gif)
 
