@@ -8,7 +8,7 @@
 
 ## Currently Working on: 
 - Forum like website using react
-- Also following the book [Crafting Interpreters](https://craftinginterpreters.com/) 
+- p2p data sharing....?
 
 
 
