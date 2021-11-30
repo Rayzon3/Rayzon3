@@ -6,10 +6,11 @@
 - Trying to learn everything 🤣
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
+<!--
 ## Currently Working on: 
-- Forum like website using react
+- 
 - p2p data sharing....?
-
+-->
 
 
 <!--
