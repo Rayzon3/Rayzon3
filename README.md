@@ -14,6 +14,7 @@
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Postgresql” width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<img align="left" alt=“TensorFlow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 
 <!--
 ## Currently Working on: 
