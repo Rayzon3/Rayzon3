@@ -11,6 +11,7 @@
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“React” width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt=“GraphQL” width="26px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+<img align="left" alt=“Node.js” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Postgresql” width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
