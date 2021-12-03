@@ -2,7 +2,7 @@
 
 
 
-## I'm a computer science student.
+## I'm a computer science student.<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
 - Trying to learn everything 🤣
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
@@ -16,14 +16,6 @@
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Postgresql” width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt=“TensorFlow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-
-<h2 align="center">
-  Top languages: <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayzon3&hide_border=true&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="My Top Languages" />
-</div>
 
 <!--
 ## Currently Working on: 
