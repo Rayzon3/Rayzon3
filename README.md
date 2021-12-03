@@ -2,11 +2,11 @@
 
 
 
-## I'm a computer science student.<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
+## I'm a computer science student.
 - Trying to learn everything 🤣
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
-## Languages and tools<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
+## Languages and tools<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif"/>
 <img align="left" alt=“TypeScript” width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“React” width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
