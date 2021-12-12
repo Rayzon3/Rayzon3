@@ -4,6 +4,8 @@
 
 ## I'm a computer science student.
 - Trying to learn everything 🤣
+- Building stuff 🧩
+- p2p data sharing...?
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
 ## Languages and tools<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="80"/>
