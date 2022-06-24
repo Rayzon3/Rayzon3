@@ -17,7 +17,7 @@
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Postgresql” width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt=“TensorFlow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-
+</br>
 
 ## Profile Views
 ![](https://count.getloli.com/get/@Rayzon3.github.readme)
