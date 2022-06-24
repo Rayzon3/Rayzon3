@@ -7,6 +7,9 @@
 - Building stuff 🧩
 - ⚡ Fun fact: I love watching anime and also like to draw.
 
+## Profile Views
+![](https://count.getloli.com/get/@Rayzon3.github.readme)
+
 ## I Work With<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="80"/>
 <img align="left" alt=“TypeScript” width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
@@ -19,8 +22,7 @@
 <img align="left" alt=“TensorFlow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 
 
-## Profile Views
-![](https://count.getloli.com/get/@Rayzon3.github.readme)
+
 
 
 <!--
