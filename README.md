@@ -22,7 +22,11 @@
 ## Profile Views
 ![](https://count.getloli.com/get/@Rayzon3.github.readme)
 
+###Coding Stats
 <!--START_SECTION:waka-->
+
+
+
 <!--END_SECTION:waka-->
 
 <!--
