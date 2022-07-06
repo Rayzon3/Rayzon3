@@ -19,10 +19,7 @@
 <img align="left" alt=“TensorFlow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 </br>
 
-## Profile Views
-![](https://count.getloli.com/get/@Rayzon3.github.readme)
-
-
+## Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
@@ -32,6 +29,9 @@ Other        31 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+## Profile Views
+![](https://count.getloli.com/get/@Rayzon3.github.readme)
 
 <!--
 ## Currently Working on: 
