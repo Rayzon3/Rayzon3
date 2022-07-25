@@ -1,7 +1,7 @@
 <h1 align="center">
 <b>Hi 👋, I'm Rahul</b>
 </h1>
-Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by name Lirena on social media sites.
+Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthusiast
 
 - 🌱 I’m currently learning Go, docker 🐳 and kubernetes ☸
 
