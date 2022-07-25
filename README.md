@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>Hi 👋, I'm Rahul</b>
+<b>Hey 👋, I'm Rahul</b>
 </h1>
 Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthusiast
 
