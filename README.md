@@ -38,7 +38,7 @@ Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by nam
 <br>
 <hr>
 <br>
-<div align='center'>
+<!-- <div align='center'>
 	<a href='https://discord.com/channels/@me/748468646975766619'>
 		<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'>
 	</a>
@@ -57,4 +57,4 @@ Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by nam
 	<a href='https://twitter.com/LiReNa_KiYuGa'>
 		<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
 	</a>
-</div>
+</div> -->
