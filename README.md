@@ -16,18 +16,18 @@ Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthus
 </h3>
 <div align='center'>
 	<a href='https://github.com/lirena00'>
-		<img width="49.5%" src='https://github-readme-stats.vercel.app/api?username=LiReNa00&show_icons=true&theme=github_dark&hide_border=true'>
-		<img width="49.5%" src='https://github-readme-streak-stats.herokuapp.com?user=lirena00&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D'>
+		<img width="49.5%" src='https://github-readme-stats.vercel.app/api?username=Rayzon3&show_icons=true&theme=github_dark&hide_border=true'>
+		<img width="49.5%" src='https://github-readme-streak-stats.herokuapp.com?user=Rayzon3&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D'>
 	</a>
 </div>
 <br>
 <div align='center'>
 	<a href='https://github.com/lirena00'>
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lirena00&show_icons=true&layout=compact&theme=github_dark&hide_border=true">
-	<img width="49.5%" src='https://activity-graph.herokuapp.com/graph?username=lirena00&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayzon3&show_icons=true&layout=compact&theme=github_dark&hide_border=true">
+	<img width="49.5%" src='https://activity-graph.herokuapp.com/graph?username=Rayzon3&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
 	</a>
 </div>
-<br>
+<!-- <br>
 <h3 align="center">
 <b>Stack Overflow</b>
 </h3>
@@ -37,7 +37,7 @@ Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthus
 </div>
 <br>
 <hr>
-<br>
+<br> -->
 <!-- <div align='center'>
 	<a href='https://discord.com/channels/@me/748468646975766619'>
 		<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'>
