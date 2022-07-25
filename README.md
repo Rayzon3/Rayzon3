@@ -1,5 +1,6 @@
 <h1 align="center">
 <b>Hey 👋, I'm Rahul</b>
+<img src="https://komarev.com/ghpvc/?username=Rayzon3" alt="Rayzon3"/>
 </h1>
 Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthusiast
 
