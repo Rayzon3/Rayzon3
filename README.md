@@ -5,7 +5,7 @@ Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthus
 
 - 🌱 I’m currently learning Go, docker 🐳 and kubernetes ☸
 
-- 👨‍ Check out my portfolio at https://www.rahulbhardwaj.codes
+- 💻  Check out my portfolio at https://www.rahulbhardwaj.codes
 
 - 💬 Talk to me about anime, music, 💻 gadgets📱 & anything realted to tech 🤩.
 
