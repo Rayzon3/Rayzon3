@@ -33,7 +33,7 @@ music, 💻 gadgets📱 & anything realted to tech 🤩. - ⚡ Fun fact I love d
     />
     <img
       width="49.5%"
-      src="https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"
+      src="https://activity-graph.herokuapp.com/graph?username=Rayzon3&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9"
     />
   </a>
   <img
