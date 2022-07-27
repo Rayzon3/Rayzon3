@@ -9,7 +9,9 @@ Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthus
 
 - 💻 Check out my portfolio at https://www.rahulbhardwaj.codes 
 
-- 💬 Talk to me about anime, music, 💻 gadgets📱 & anything realted to tech 🤩. - ⚡ Fun fact I love drawing ✏️ and playing 🎸.
+- 💬 Talk to me about anime, music, 💻 gadgets📱 & anything realted to tech 🤩. 
+
+- ⚡ Fun fact I love drawing ✏️ and playing 🎸.
 
 <br />
 <h3 align="center">
