@@ -3,11 +3,14 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=Rayzon3" alt="Rayzon3" />
 </h1>
-Software Engineer | Full Stack Developer | React and Python Lover | ML/AI
-Enthusiast - 🌱 I’m currently learning Go, docker 🐳 and kubernetes ☸ - 💻 Check
-out my portfolio at https://www.rahulbhardwaj.codes - 💬 Talk to me about anime,
-music, 💻 gadgets📱 & anything realted to tech 🤩. - ⚡ Fun fact I love drawing
-✏️ and playing 🎸.
+Software Engineer | Full Stack Developer | React and Python Lover | ML/AI Enthusiast 
+
+- 🌱 I’m currently learning Go, docker 🐳 and kubernetes ☸ 
+
+- 💻 Check out my portfolio at https://www.rahulbhardwaj.codes 
+
+- 💬 Talk to me about anime, music, 💻 gadgets📱 & anything realted to tech 🤩. - ⚡ Fun fact I love drawing ✏️ and playing 🎸.
+
 <br />
 <h3 align="center">
   <b>Github Stats</b>
