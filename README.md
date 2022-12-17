@@ -3,9 +3,8 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=Rayzon3" alt="Rayzon3" />
 </h1>
-Software Engineer | Full Stack Developer | ML/AI Enthusiast 
 
-```
+```golang
 package main
 
 import "fmt"
