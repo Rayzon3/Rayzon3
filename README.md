@@ -32,10 +32,10 @@ func main() {
 </h3>
 <div align="center">
   <a href="https://github.com/Rayzon3">
-    <img
+<!--     <img
       width="49.5%"
       src="https://github-readme-stats.vercel.app/api?username=Rayzon3&show_icons=true&theme=github_dark&hide_border=true"
-    />
+    /> -->
     <img
       width="49.5%"
       src="https://github-readme-streak-stats.herokuapp.com?user=Rayzon3&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"
