@@ -45,10 +45,10 @@ func main() {
 <br />
 <div align="center">
   <a href="https://github.com/Rayzon3">
-    <img
+<!--     <img
       width="49.5%"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayzon3&show_icons=true&layout=compact&theme=github_dark&hide_border=true"
-    />
+    /> -->
 <!--     <img
       width="49.5%"
       src="https://activity-graph.herokuapp.com/graph?username=Rayzon3&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9"
