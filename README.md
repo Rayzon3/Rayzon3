@@ -13,7 +13,7 @@ func aboutMe() string {
 	return `
 	 -> Currently working on improving my skills 🚀
 	 -> I code in .ts, .js, .go, .java 💻
-	 -> 💻 Check out my portfolio at https://portfolio-v3-innmekk94-rayzon3.vercel.app/
+	 -> 💻 Check out my portfolio at https://www.rahulbhardwaj.codes/
 	 -> 💬 Talk to me about anime, music, 💻 gadgets📱 & anything related to tech 🤩.
 	 -> ⚡ Fun fact I love drawing ✏️ and playing 🎸.
 	`
