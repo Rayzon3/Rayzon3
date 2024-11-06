@@ -9,7 +9,7 @@ defmodule AboutMe do
   def about_me do
     """
      -> Currently working on improving my skills 🚀
-     -> I code in .ts, .js, .ex, .go, .java 💻
+     -> I code in .ts, .js, .ex, .java 💻
      -> 💻 Check out my portfolio at https://www.rahulbhardwaj.codes/
      -> 💬 Talk to me about anime, music, 💻 gadgets📱 & anything related to tech 🤩.
      -> ⚡ Fun fact I love drawing ✏️ and playing 🎸.
