@@ -4,25 +4,26 @@
   <img src="https://komarev.com/ghpvc/?username=Rayzon3" alt="Rayzon3" />
 </h1>
 
-```golang
-package main
+```elixir
+defmodule AboutMe do
+  def about_me do
+    """
+     -> Currently working on improving my skills 🚀
+     -> I code in .ts, .js, .ex, .go, .java 💻
+     -> 💻 Check out my portfolio at https://www.rahulbhardwaj.codes/
+     -> 💬 Talk to me about anime, music, 💻 gadgets📱 & anything related to tech 🤩.
+     -> ⚡ Fun fact I love drawing ✏️ and playing 🎸.
+    """
+  end
+end
 
-import "fmt"
+defmodule Main do
+  def main do
+    IO.puts(AboutMe.about_me())
+  end
+end
 
-func aboutMe() string {
-	return `
-	 -> Currently working on improving my skills 🚀
-	 -> I code in .ts, .js, .ex, .go, .java 💻
-	 -> 💻 Check out my portfolio at https://www.rahulbhardwaj.codes/
-	 -> 💬 Talk to me about anime, music, 💻 gadgets📱 & anything related to tech 🤩.
-	 -> ⚡ Fun fact I love drawing ✏️ and playing 🎸.
-	`
-}
-
-func main() {
-	about := aboutMe()
-	fmt.Println(about)
-}
+Main.main()
 
 ```
 
