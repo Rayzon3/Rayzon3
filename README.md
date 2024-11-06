@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hey 👋, I'm Rahul</b>
+  <b>Sup!:3</b>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Rayzon3" alt="Rayzon3" />
 </h1>
