@@ -8,7 +8,7 @@
 defmodule AboutMe do
   def about_me do
     """
-     -> Currently crafting amazing software🚀
+     -> Currently crafting amazing software 🚀
      -> I code in .ts, .js, .ex, .java 💻
      -> 💻 Check out my portfolio at https://www.rahulbhardwaj.codes/
      -> 💬 Talk to me about anime, music, 💻 gadgets📱 & anything related to tech 🤩.
